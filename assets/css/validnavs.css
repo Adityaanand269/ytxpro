@@ -1273,6 +1273,7 @@ nav.navbar.validnavs.navbar-fixed {
 	z-index: 100;
 	box-shadow: 0 8px 25px 0 rgba(0, 0, 0, 0.04);
 	top: 0;
+	padding: 0;
 }
 
 nav.navbar.validnavs.navbar-fixed.nav-box.no-background {
@@ -1648,6 +1649,7 @@ nav.navbar.validnavs.brand-center {
 
 	nav.navbar.validnavs.navbar-fixed.no-background {
 		box-shadow: inherit;
+		padding: 0;
 	}
 
 	nav.navbar.validnavs.navbar-fixed .logo-scrolled {
