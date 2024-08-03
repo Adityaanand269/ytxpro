@@ -3800,6 +3800,7 @@ a.btn-round-animation.dark {
 	padding-left: 50px;
 	bottom: -120px;
 	margin-top: -80px;
+	overflow: hidden;
 }
 
 .banner-software .content-box .thumb-inner img:nth-child(2) {
