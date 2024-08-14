@@ -6825,7 +6825,7 @@ ul.check-list-item li::after {
 }
 
 .gallery-items.gallery-style-one .gallery-item {
-	padding: 15px;
+	padding: 10px;
 }
 
 .gallery-items.gallery-style-one.colums-3 .gallery-item:nth-child(2) {
