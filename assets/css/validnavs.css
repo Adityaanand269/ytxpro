@@ -3260,7 +3260,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button {
 	border-radius: 50%;
 	color: var(--dark);
 	font-size: 16px;
-	top: 40px;
+	top: 10px;
 	padding: 0;
 }
 
